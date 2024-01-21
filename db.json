@@ -1,0 +1,131 @@
+{
+  "admins": [
+    {
+      "id": "1",
+      "username": "Ryan Ramadhan",
+      "password": "ryan123",
+      "email": "ryan@gmail.com",
+      "role": "Admin"
+    },
+    {
+      "id": "2",
+      "username": "Baskara",
+      "password": "bas123",
+      "email": "bas@gmail.com",
+      "role": "Admin"
+    },
+    {
+      "id": "1705761507589",
+      "username": "Joo",
+      "password": "jo123",
+      "email": "joo@gmail.com",
+      "role": "admin"
+    }
+  ],
+  "customers": [
+    {
+      "id": "1",
+      "username": "Andre",
+      "password": "andre123",
+      "email": "andre@gmail.com",
+      "role": "Customer"
+    },
+    {
+      "id": "2",
+      "username": "Anrico",
+      "password": "rico123",
+      "email": "rico@gmail.com",
+      "role": "Customer"
+    },
+    {
+      "id": "3",
+      "username": "King Leo",
+      "password": "leo123",
+      "email": "leo@gmail.com",
+      "role": "Customer"
+    },
+    {
+      "id": "1705761553938",
+      "username": "Joo Cus",
+      "password": "joo123",
+      "email": "Joo@gmail.com",
+      "role": "customer"
+    }
+  ],
+  "films": [
+    {
+      "id": "1",
+      "title": "Movie 1",
+      "genre": "Action",
+      "release_date": "2023-01-01",
+      "director": "Director 1",
+      "imagePath": "./src/assets/images/home/film1.jpg"
+    },
+    {
+      "id": "2",
+      "title": "The Stranger",
+      "genre": "Comedy",
+      "release_date": "2023-02-15",
+      "director": "Director 2",
+      "imagePath": "./src/assets/images/home/film2.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Movie 3",
+      "genre": "Comedy",
+      "release_date": "2023-03-15",
+      "director": "Director 3",
+      "imagePath": "./src/assets/images/home/film3.jpg"
+    },
+    {
+      "id": "6836",
+      "title": "Movie 4",
+      "genre": "Horor",
+      "release_date": "2023-03-15",
+      "director": "Director 4",
+      "imagePath": "./src/assets/images/home/film4.jpg"
+    },
+    {
+      "id": "4e52",
+      "title": "Movie 5",
+      "genre": "Horor",
+      "release_date": "2023-03-15",
+      "director": "Director 5",
+      "imagePath": "./src/assets/images/home/film5.jpg"
+    },
+    {
+      "id": "a9ef",
+      "title": "Movie 6",
+      "genre": "Action",
+      "release_date": "2023-06-15",
+      "director": "Director 6",
+      "imagePath": "./src/assets/images/home/film6.jpg"
+    },
+    {
+      "id": "7144",
+      "title": "tes",
+      "genre": "tes",
+      "release_date": "1234-12-12",
+      "director": "tes",
+      "imagePath": "./src/assets/images/home/film7.jpg"
+    }
+  ],
+  "genre": [
+    {
+      "id": "1",
+      "name": "Action"
+    },
+    {
+      "id": "2",
+      "name": "Comedy"
+    },
+    {
+      "id": "3",
+      "name": "Horror"
+    },
+    {
+      "id": "4",
+      "name": "Romance"
+    }
+  ]
+}
